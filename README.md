@@ -1,2 +1,7 @@
-# gear-selector
-A program to determine the appropriate gear selection for a vehicle.
+# Gear Selector
+
+This program takes vehicle information (speed, rpm, etc.) and recommends a gear to select.
+
+This is meant for theoretical estimates and is not very accurate. Therefore, it cannot replace a properly crafted shift map.
+
+https://github.com/connergrinstead/gear-selector/blob/main/screenshot1.png
